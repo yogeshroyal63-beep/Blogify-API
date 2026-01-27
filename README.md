@@ -1,2 +1,2 @@
 # Blogify API
-assigment
+Backend service for Blogify
