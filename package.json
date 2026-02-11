@@ -5,6 +5,7 @@
     "mongoose": "^9.1.5"
   },
   "devDependencies": {
+    "@faker-js/faker": "^10.2.0",
     "nodemon": "^3.1.11"
   },
   "name": "blogify-api",
@@ -12,7 +13,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon seed.js"
   },
   "repository": {
     "type": "git",
